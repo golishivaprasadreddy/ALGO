@@ -4,7 +4,7 @@ This repository contains implementations and documentation of various algorithms
 
 ## Contents
 
-- [Kadane's Algorithm](Kadane's%20Algorithm.md) - Maximum subarray problem solution
+- [Kadane's Algorithm](Kadane’s Algorithm.md) - Maximum subarray problem solution
 
 ## About
 
